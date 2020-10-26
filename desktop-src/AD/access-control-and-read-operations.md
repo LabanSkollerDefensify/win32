@@ -11,7 +11,7 @@ ms.date: 05/31/2018
 
 # Access Control and Read Operations
 
-Security is an implicit filter for searching, enumerating containers, or reading properties. If you do not have the necessary access rights, attempts to list objects or read properties can fail with the following error codes even thought the object or property exists:
+Security is an implicit filter for searching, enumerating containers, or reading properties. If you do not have the necessary access rights, attempts to list objects or read properties can fail with the following error codes even though the object or property exists:
 
 -   **E\_ADS\_INVALID\_DOMAIN\_OBJECT**
 -   **E\_ADS\_PROPERTY\_NOT\_SUPPORTED**
